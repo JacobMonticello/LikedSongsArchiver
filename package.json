@@ -1,0 +1,18 @@
+{
+  "name": "spotifyarchiver",
+  "version": "1.0.0",
+  "description": "Combs through your liked songs and creates monthly playlists of the songs you liked during that time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^20.12.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
